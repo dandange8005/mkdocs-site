@@ -1,4 +1,7 @@
 site_name: This is my doc name
+repo_url: https://github.com/dandange8005/mkdocs-test
+repo_name: dandange8005/mkdocs-test
+edit_uri: edit/main/docs/
 theme:
   name: material
   features:
@@ -12,6 +15,9 @@ theme:
     # - content.tabs.link
     - contend.code.annotate
     - content.code.copy
+    - navigation.footer
+    - content.action.edit
+    - content.action.view
     
   palette:
     - scheme: default
@@ -41,6 +47,8 @@ extra:
       make our documentation better.
 
 markdown_extensions:
+  - footnotes
+  - pymdownx.magiclink
   - admonition
   - pymdownx.details
   - attr_list
@@ -57,19 +65,14 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.mark
-  - attr_list
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.tasklist:
       custom_checkbox: true
- 
 
+plugins:
+  - search
+  - roamlinks
 
-
-
-
-
-
-
-
-
+extra_css:
+  - stylesheets/extra.css

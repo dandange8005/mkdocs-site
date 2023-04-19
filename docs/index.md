@@ -17,3 +17,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 Just adding something new to the page to test the workflow
+
+## link test
+- [[tabs]]
+- [[code test]]
