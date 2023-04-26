@@ -52,4 +52,4 @@ Images uploaded to the file
 
 Images uploaded using external link
 
-
+![alt text for the image](https://i.imgur.com/7TrAFDK.png)
