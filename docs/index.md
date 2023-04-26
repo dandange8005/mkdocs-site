@@ -14,7 +14,13 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        Getting Started/  # Other markdown pages, images and other files.
+            code test.md
+            google fonts.md
+            tabs.md
+            tasklist.md
+            Ultra Base Navigation.md
+        stylesheets/ # Extra styles that can be added to the project
 
 Just adding something new to the page to test the workflow
 
