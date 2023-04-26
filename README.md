@@ -9,13 +9,26 @@ I followed this tutorial ([How To Create STUNNING Code Documentation With MkDocs
 Below are some of the benefits of creating a project like this:
 
 - Write the documentation in simply [Markdown](https://www.markdownguide.org/basic-syntax/) syntax (let you focus on writing the content not the style)
-- Create a beatiful documentation site built with [MKDocs](mkdocs.org) and [Material for MKDoc](https://squidfunk.github.io/mkdocs-material/)
+
+- Create a beatiful documentation site built with [MKDocs](mkdocs.org) and [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/)
+
 - running a local server to test, preview the docs
-- Integrate with the Powerful Github
-  - making changes using [Github Codespace](https://github.com/features/codespaces)   
-  - changes automatically published to Github
-  - Github tracking all the changes that's been made
-- 
+
+- Github integration
+  
+  - version control
+  
+  - collaboration
+  
+  - track issues
+  
+  - [Github Codespace](https://github.com/features/codespaces)
+  
+  - doc deployed to Github pages and rendered with mkdocs + material for mkdocs
+  
+  - changes made locally or remotely all get published
+
+- lots of great features from Material for MKDocs
 
 ## Dependencies
 
@@ -23,13 +36,9 @@ Here are some of the dependencies of the project
 
 - Python
 
-## 
-
 ## Setup workflow
 
 Insert the setup workflow below
-
-## 
 
 ## Editing the Docs
 
