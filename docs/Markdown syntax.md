@@ -43,7 +43,7 @@ Internal links
 Basic markdown syntax
 
 ```md
-
+![alt text for the image](https://i.imgur.com/7TrAFDK.png)
 ```
 
 Images uploaded to the file
