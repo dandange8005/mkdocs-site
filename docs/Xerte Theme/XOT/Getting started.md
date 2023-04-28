@@ -30,18 +30,16 @@ To change the main theme colour,
 3. Paste the code into the Styles field
    ![styles field in project properties](https://i.imgur.com/hTUxuVP.png)
 
-4. Choose a colour of your choice and make a note of the HSL value.
-   
-   !!! note
+4. Choose a colour of your choice and make a note of the HSL value. In this example, I used [Google Colour Picker](https://g.co/kgs/m4765a) to pick a colour that I liked. Note down the hsl value `246, 90%, 33% `.
 
-       Feel free to use any colour tools you like but make sure you note down the hsl value of the colour.
+    !!! note
 
-
-   In this example, I used [Google Colour Picker](https://g.co/kgs/m4765a) to pick a colour that I liked. Note down the hsl value `246, 90%, 33% `.
+        Feel free to use any colour tools you like but make sure you note down the hsl value of the colour.
 
 5. Apply the new values to the Styles
 
    ```css title="Example"
+
     :where(html) {
     /*Accent colour*/
     /*Main accent colour controls the title page shade and the page header background */
@@ -50,6 +48,7 @@ To change the main theme colour,
     --clr-s: 90%;
     --clr-l: 33%;
     }
+    
     ```
 6. Click ` Play ` button to preview the changes
    ![The title page with new colour](https://i.imgur.com/CiTLQEk.png)
