@@ -55,7 +55,12 @@ To change the main theme colour:
 
 ## Updating the Title Page
 
+### Remove the rounded shade effect
+
 1. Click on the Title Page and find the **Styles** field
+
+   ![Xerte project window with Title page selected](https://i.imgur.com/axNXz7h.png) 
+
 2. Locate the following code:
 
     ```css
@@ -92,4 +97,10 @@ To change the main theme colour:
 
     ```
 
-4. You may also play with the ` background: linear-gradient(105deg, var(--clr-accent) 55%, transparent 55%); ` property to change the angle of the shade.
+4. You may also change the degree value within this property ` background: linear-gradient(105deg, var(--clr-accent) 55%, transparent 55%); ` to change the angle of the shade.
+
+### Changing the background image
+
+Once again, with the Title Page selected, you can change the background image by replacing the image in the Image field of the Background property.
+
+![screenshot of Title Page with background property highlighted](https://i.imgur.com/QZLzMzG.png)
