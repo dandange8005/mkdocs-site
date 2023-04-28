@@ -23,19 +23,19 @@ theme:
     - content.action.view
     
   palette:
-    - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-      primary: purple
-      accent: teal
-
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: purple
-      accent: teal
+      primary: custom
+      accent: indigo
+
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: custom
+      accent: indigo  
 
   font:
     text: Inter
@@ -78,6 +78,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - git-revision-date-localized
 
 extra_css:
   - stylesheets/extra.css

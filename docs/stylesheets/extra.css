@@ -1,5 +1,29 @@
 /* This is where the custom styles goes */
 
+:root {
+
+  --cu-red: #d4374a;
+
+  /* Primary color shades */
+
+
+  --md-primary-fg-color: #d4374a;
+  --md-primary-fg-color--light: #e4838e;
+  --md-primary-fg-color--dark:  #991a29;
+
+}
+
+/* Title colours */
+
+.md-typeset h1 {
+  color: var(--cu-red);
+}
+
+.md-typeset h2, 
+.md-typeset h3 {
+  font-weight: 600;
+}
+
 .twitter {
     color: #1DA1F2;
 }
