@@ -29,14 +29,17 @@ To change the main theme colour,
 3. Paste the code into the Styles field
    ![styles field in project properties](https://i.imgur.com/hTUxuVP.png)
 
-4. Choose a colour of your choice. 
+4. Choose a colour of your choice and make a note of the HSL value.
    
    !!! note
 
-        Feel free to use any colour tools you like but make sure you note down the hsl value of the colour.
+       Feel free to use any colour tools you like but make sure you note down the hsl value of the colour.
 
 
-   In this example, I used [Colour Picker](https://g.co/kgs/m4765a) to pick a colour that I liked. Note down the hsl value `246, 90%, 33% `, change the value next to each property 
+   In this example, I used [Google Colour Picker](https://g.co/kgs/m4765a) to pick a colour that I liked. Note down the hsl value `246, 90%, 33% `.
+
+5. Apply the new values to the Styles
+
    ```css title="Example"
     :where(html) {
     /*Accent colour*/
