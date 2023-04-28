@@ -24,6 +24,7 @@ To change the main theme colour,
         --clr-l: 20%;
     }
     ```
+
 2. Open you XOT project
    
 3. Paste the code into the Styles field
@@ -50,3 +51,5 @@ To change the main theme colour,
     --clr-l: 33%;
     }
     ```
+6. Click ` Play ` button to preview the changes
+   ![The title page with new colour](https://i.imgur.com/CiTLQEk.png)
