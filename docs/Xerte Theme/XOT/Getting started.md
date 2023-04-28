@@ -1,39 +1,48 @@
 # Getting started with XERTE XOT Theme
 
-The DigED XOT Theme provides great flexibility when it comes to customising the look and feel for your own project. Once you've installed the theme, you can 
+The DigED XOT Theme provides great flexibility when it comes to customising the look and feel of your own project. Follow this guide to see how you can change some of the css properties to create a unique project of your own.
 
-## Change the colour
+!!! note
 
-The theme uses css [custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) to control variety of things including colours, font-family etc.
+    You don't need any prior knowledge of CSS but you should be comfortable with code.
 
-Below is the default custom properites in the theme:
+## Changing the theme colour
 
-```css title="default custom properties"
+Colours can be changed quite easily by altering the [custom properpties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) within the project.
 
-:where(html) {
+To change main theme colour,
+
+1. Copy the code below
+
+    ```css title="default custom properties"
+    :where(html) {
+        /*Accent colour*/
+        /*Main accent colour controls the title page shade and the page header background */
+        --clr-accent: hsl(217, 59%, 20%);
+        --clr-h: 217;
+        --clr-s: 59%;
+        --clr-l: 20%;
+    }
+    ```
+2. Open you XOT project
+3. Paste the code into the Styles field
+   ![styles field in project properties](https://i.imgur.com/hTUxuVP.png)
+
+4. Choose a colour of your choice. 
+   
+   !!! note
+
+    Feel free to use any colour tools you like but make sure you note down the hsl value of the colour.
 
 
-    /*Title page*/
+   In this example, I simply used [Colour Picker](https://g.co/kgs/m4765a) to pick a colour that I liked. Note down the hsl value, then 
+   ```css title="Example"
+    :where(html) {
+    /*Accent colour*/
+    /*Main accent colour controls the title page shade and the page header background */
     --clr-accent: hsl(217, 59%, 20%);
     --clr-h: 217;
     --clr-s: 59%;
     --clr-l: 20%;
-
-    --gradient-image: url('https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80');
-
-
-    /*Header background colour*/
-    --clr-header-bg: var(--clr-accent);
-
-    /*Footer background colour*/
-    --clr-footer-bg: #495057;
-
-    /*body colours*/
-    --clr-body-bg: var(--shade-sand); // body background
-    --clr-body-text: var(--neutral-8); // main body text colour
-    --clr-headline: var(--black); //headline colours
-}
-
-
-
-```
+    }
+    ```
