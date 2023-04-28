@@ -39,7 +39,6 @@ To change the main theme colour,
 5. Go back to your Xerte project and apply the new values to the Styles
 
     ```css title="Example"
-
     :where(html) {
     /*Accent colour*/
     /*Main accent colour controls the title page shade and the page header background */
@@ -48,8 +47,7 @@ To change the main theme colour,
     --clr-s: 90%;
     --clr-l: 33%;
     }
-
     ```
-    
+
 6. Click ` Play ` button to preview the changes
    ![The title page with new colour](https://i.imgur.com/CiTLQEk.png)
