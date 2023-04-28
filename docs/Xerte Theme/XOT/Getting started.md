@@ -10,7 +10,7 @@ The DigED XOT Theme provides great flexibility when it comes to customising the 
 
 Colours can be changed quite easily by altering the [custom properpties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) within the project.
 
-To change main theme colour,
+To change the main theme colour,
 
 1. Copy the code below
 
@@ -25,6 +25,7 @@ To change main theme colour,
     }
     ```
 2. Open you XOT project
+   
 3. Paste the code into the Styles field
    ![styles field in project properties](https://i.imgur.com/hTUxuVP.png)
 
@@ -32,17 +33,17 @@ To change main theme colour,
    
    !!! note
 
-    Feel free to use any colour tools you like but make sure you note down the hsl value of the colour.
+        Feel free to use any colour tools you like but make sure you note down the hsl value of the colour.
 
 
-   In this example, I simply used [Colour Picker](https://g.co/kgs/m4765a) to pick a colour that I liked. Note down the hsl value, then 
+   In this example, I used [Colour Picker](https://g.co/kgs/m4765a) to pick a colour that I liked. Note down the hsl value `246, 90%, 33% `, change the value next to each property 
    ```css title="Example"
     :where(html) {
     /*Accent colour*/
     /*Main accent colour controls the title page shade and the page header background */
-    --clr-accent: hsl(217, 59%, 20%);
-    --clr-h: 217;
-    --clr-s: 59%;
-    --clr-l: 20%;
+    --clr-accent: hsl(246, 90%, 33%);
+    --clr-h: 246;
+    --clr-s: 90%;
+    --clr-l: 33%;
     }
     ```
