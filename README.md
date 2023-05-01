@@ -1,10 +1,18 @@
-# Mkdocs-test
+# Introduction
 
-a test repository using mkdocs + Material Template
+This is a test repository using mkdocs + Material Template. 
 
 You can visit the published test site at: https://dandange8005.github.io/mkdocs-test/
 
+## Tutorial I followed
+
 I followed this tutorial ([How To Create STUNNING Code Documentation With MkDocs Material Theme](https://www.youtube.com/watch?v=Q-YA_dA8C20&list=WL&index=17&ab_channel=JamesWillett)) to create this project. 
+
+## Why create a project like this?
+
+In our DigEd team, we are often asked to create documentations for different proejcts. In a recent project, we were asked to create an asynchronous online resource for Blackboard Ultra courses. The resource will be used by staff to learn how to use Blackboard Ultra. We created the resource using Xerte Online Toolkits.
+
+It was okay to create online learning resources using Xerte but it was not ideal for creating documentations. We wanted to create a documentation site that is easy to maintain, easy to update, easy to collaborate, and easy to publish.
 
 Below are some of the benefits of creating a project like this:
 
@@ -30,15 +38,25 @@ Below are some of the benefits of creating a project like this:
 
 - lots of great features from Material for MKDocs
 
-## Dependencies
+## prerequisites for the project
 
-Here are some of the dependencies of the project
-
-- Python
+- python
+- Github CLI
+- VS code
+- Github Desktop (optional)
+- some knowledge of Markdown syntax
 
 ## Setup workflow
 
-Insert the setup workflow below
+Here are the steps to setup the project
+
+```bash
+python -m ven venv
+source venv/bin/activate
+```
+
+
+
 
 ## Editing the Docs
 
@@ -48,7 +66,7 @@ You can choose whatever editor you want to make changes to the .md files as they
 
 However, these are some of the editors I would consider using
 
-- VS code
+- VS code (with markdown preview)
 - [Marktext](https://github.com/marktext/marktext)
 - Obsidian
 

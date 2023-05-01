@@ -46,9 +46,6 @@ Basic markdown syntax
 ![alt text for the image](https://i.imgur.com/7TrAFDK.png)
 ```
 
-Images uploaded to the file
-
-![screenshot of published site](C:\Users\sopnz\AppData\Roaming\marktext\images\2023-04-26-13-22-26-image.png)
 
 Images uploaded using external link
 
