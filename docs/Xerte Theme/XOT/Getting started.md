@@ -6,6 +6,10 @@ The DigED XOT Theme provides great flexibility when it comes to customising the 
 
     You don't need any prior knowledge of CSS but you should be comfortable with code.
 
+## Video Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gro2jOtdVFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Changing the theme colour
 
 Colours can be changed quite easily by altering the [custom properpties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) within the project.
