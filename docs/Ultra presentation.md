@@ -1,15 +1,15 @@
 # Ultra Presentation for COMSC
 
-## Introduction
+## Introduction (page 1)
 
-Thank you for inviting me to this event where I will be talking about the Ultra project and hopefully share with you some of the insights we have gained over the past year. I am going 
+Thank you for inviting me to this event where I will be talking about the Ultra project and give you a quick overview of the new Ultra Courses View. I will also be showing you some of the new features and enhancements that are available in Ultra courses.git
 
 
-## Ultra Project Overview
+## Ultra Project Overview (page 2)
 
 I would like to start off by giving you a brief overview of the Ultra project. The Ultra project is a major upgrade to Learning Central that will provide a new, modern and intuitive user interface for staff and students. It will also provide a more responsive user experience across different devices. The project is being delivered in two phases. Phase 1 is the upgrade to Ultra Base Navigation and Phase 2 is the upgrade to Ultra Cources View.
 
-### What is the Ultra Courses?
+### What is the Ultra Courses? (page 3)
 
 - A new, modern and intuitive user interface
 - A more responsive user experience across different devices
@@ -17,7 +17,7 @@ I would like to start off by giving you a brief overview of the Ultra project. T
 
 Blackboard has been working on a new version of Learn called Ultra Courses. It provides a new experience that is designed to be more intuitive and easier to use. It is also designed to be more mobile friendly and responsive to different screen sizes. At its heart, the new design retains core Learning Central functionality, but it also introduces new features alongside a more intuitive interface with less complicated workflows.
 
-### Why the move to Ultra?
+### Why the move to Ultra? (page 4)
 
 - Learning central has been around for a long time
 - Students are expecting a more modern and intuitive user interface
@@ -26,7 +26,7 @@ Blackboard has been working on a new version of Learn called Ultra Courses. It p
 
 Learning Central has been around for a long time and has remained largely unchanged over the years. student experience has changed significantly over the years and they are now expecting a more modern and intuitive user interface. Since 2012, Blackboard stopped actively developing the original Learn interface and has since focused on developing the Ultra experience. With Ultra courses now being the default experience for new Blackboard customers, it is important that we move to Ultra courses to ensure that we are able to take advantage of the latest features and enhancements. With Ultra, we are also receiving monthly updates and new features are being added all the time.
 
-### How will this be implemented?
+### How will this be implemented? (page 5)
 
 - Phased approach
 - Full roll-out in September 2023
@@ -40,7 +40,7 @@ We are now in consultation with the schools to plan the move to Ultra Courses Vi
 Each school will also have a named contact in the Digital Education Team who will identify and address specific school requirements and coordinate training, support and resources needs.
 
 
-### How can staff prepare for the change?
+### How can staff prepare for the change? (page 6)
 
 So how can you prepare for the change? Well, there are a number of things you can do to prepare for the change.
 
@@ -57,12 +57,12 @@ We have also scheduled a number of training sessions to help you move to Ultra c
 
 Most importantly, please engage with the Digital Education Team to discuss any specific issues or requirements you may have.
 
-## Ultra Courses in Action
+## Ultra Courses in Action  (page 7)
 
 Now that you have a better understanding of the Ultra project, I would like to show you an Ultra course in action. I will be using a demo course to show you some of the new features.
 
 
-### Ultra courses interface
+### Ultra courses interface (page 8)
 
 - clean and modern interface
 
@@ -86,7 +86,7 @@ This is where you build up your course content and course activities. You can or
 
 You can use student preview to check that your course is working as expected and that students can access all the content and activities. Once finished the preview, you can exit the student preview mode by clicking on the exit preview button in the top right-hand corner of the screen. You can also reset the student preview by clicking on the Discard button. If you choose to Discard the information, your student preview will be removed without trace. However if you choose to Save, all activity will remain visible in the course. 
 
-### four main icons
+### four main icons (page 9)
 
 Generally there are four main icons you will find throughout the Ultra Course View. These are:
 
@@ -102,7 +102,7 @@ Generally there are four main icons you will find throughout the Ultra Course Vi
 - three dots icon
   this denotes more and clicking on it will open a contextual menu. It is often found at the end of a line where it will turn pink when moused over.
 
-### New Module Template
+### New Module Template (page 10)
 
 All Ultra courses will be created using a new module template. The template has been designed to assist staff with structuring their new modules and to provide a consistent method of navigation for students across the institution. The template should be followed wherever possible, although staff can refine to suit their teaching if necessary. 
 
@@ -142,12 +142,11 @@ The template is made up of a number of sections, which are described below.
 
 
 
-
-## Top Tips and features for using Ultra Courses
+## Top Tips and features for using Ultra Courses (page 11)
 
 Now that we've had a brief overview of the Ultra course interface. I would like to highlight some of the other new features that are available in Ultra courses.
 
-### 1. Copy when you need to
+### 1. Copy when you need to (page 12)
 
 - No more module rollover
 - Easier to build from scratch
@@ -162,7 +161,7 @@ Feedback from other UK universities, and our own Ultra Course View pilot which t
 Rather than using the Course Copy to copy the entire course which has a high potential of resulting in error, we strongly recommend copying content only selectively, and checked thoroughly.
 
 
-### 2. Learning modules and folders
+### 2. Learning modules and folders (page 13)
 
 We talked about learning modules and folders earlier and that they can be used to organise content. They can be expanded and collapsed by clicking on them. But what is the difference between learning modules and folders and when should you use one than another?
 
@@ -177,7 +176,7 @@ When Learning materials or course activities are placed within a Learning Module
 **Folders** are simply used to gather together multiple files in a single 'container'. We recommend placing module-wide reference materials and useful resources in a top level folder. 
 
 
-### 3. Drag and drop files
+### 3. Drag and drop files (page 14)
 
 - files to folders/learning modules
 - files to the content area
@@ -185,7 +184,7 @@ When Learning materials or course activities are placed within a Learning Module
 
 You can quickly add files to folders/learning modules via drag and drop. You can also drag and drop files from your computer to the content area to upload them. You can drag and drop images into the content editor to add them to your content.
 
-### 4. Inline file rendering
+### 4. Inline file rendering (page 15)
 
 - word, pdf, powerpoint, excel, images, audio and video files
 - no longer have to download files to view them
@@ -195,18 +194,18 @@ You can quickly add files to folders/learning modules via drag and drop. You ca
 Files such as word, pdf, powerpoint, excel, images, audio and video files can be viewed inline within the content area. This means that students no longer have to download files to view them.
 
 
-### 5. Use Ultra Documents to build complex content
+### 5. Use Ultra Documents to build complex content (page 16)
 
 Ultra documents are a new way to build complex content. They are a collection of text, images, videos, files, html content or content from the Marketplace that can be added to a course. They can be used to create a course outline, a course syllabus, a course introduction, a course overview, and can be reused across multiple courses.
 
-### 6. Create meaningful content headings and descriptions
+### 6. Create meaningful content headings and descriptions (page 17)
 
 This is particularly important as Ultra now introduces a new feature that allows you to search for content by title.
 
 It is also important for accessibility. Headings and descriptions help students navigate the content and understand the purpose of the content. They also help students with screen readers to understand the content.
 
 
-### 7. Allow your students to track their progress
+### 7. Allow your students to track their progress (page 18)
  
 The new progress tracking feature allows you to track the progress of your students. This is particularly useful if you want to see how your students are progressing through the course and if they are completing the required activities. The feature is enabled by default and can be accessed via the Progress Tracking option under Details and Action.
 
@@ -214,21 +213,20 @@ When progress tracking is on, students are able to see their progress in the cou
 
 Staff on the other hand can also see the progress of their students. clicking on the ellipsis icon next to each item will open a contextual menu where you can choose Participant Progress to see when each student has completed the item.
 
-### 8. Personalise your modules
+### 8. Personalise your modules (page 19)
 
 Ultra courses allow you to personalise your modules by adding a banner image and changing the title of the module. Having a course image not only make the module more visually appealing but also helps establish a strong course identity for your students.
 
 All teaching staff added as instructors to the course will be listed in Course Staff with an avatar image. You can click your name in the left-hand menu of the homepage to access your profile page where you can add a profile picture and update your profile information.
 
-### 9. Tidy up by deleting or hiding content
+### 9. Tidy up by deleting or hiding content (page 20)
 
 Instead of deleting content, we recommend hiding it from students.
 
 You should only delete content if it is something you no longer want to retain. An alternative is to hide the content from students. you can use the visibility setting to control the availability of the content as well as release it based on date, membership, or performance on other items.
 
 
-
-### 10. Different ways to communicate with your students
+### 10. Different ways to communicate with your students (page 21)
 
 - Announcements
 - Messages (Email in Original Course View)
@@ -237,7 +235,7 @@ You should only delete content if it is something you no longer want to retain. 
 - Due dates and Reminders
 - Teams
 
-## Key Changes
+## Key Changes from Original to Ultra (page 22)
 
 - Panopto sessions (link and embed) can now be accessed from the Content Market
 - No subscription for discussion forums
@@ -251,7 +249,7 @@ You should only delete content if it is something you no longer want to retain. 
     - Campuspack (Blogs, Journals, Wiki)
 
 
-## Ultra Support
+## Ultra Support (page 23)
 
 ### Ultra Resources
 
@@ -272,17 +270,15 @@ You should only delete content if it is something you no longer want to retain. 
 
 An online course has been developed specifically for Cardiff University staff. It covers all the main aspects of the Ultra platform whilst also enabling you to experience Ultra from a student point of view. The entire course can be completed in 8-10 hours, although you are equally welcome to pick and choose the units that you find most useful at any time. 
 
-## Issues and queries
 
-Digital Education Support <DigEdSupport@cardiff.ac.uk> 
+## Communication and engagement (page 24)
 
-General issues and queries should be directed to the Digital Education Support team in the first instance. We have a team of experts that are available to support staff with any issues or queries relating to the Ultra platform.
-
-## Communication and engagement
-
+- Digital Education Support <DigEdSupport@cardiff.ac.uk> 
 - Ultra contacts
 - Intranet (search for Ultra)
 - School Ultra champions
+
+General issues and queries should be directed to the Digital Education Support team in the first instance. We have a team of experts that are available to support staff with any issues or queries relating to the Ultra platform.
 
 You can find general ultra related information on the intranet. This includes information about the Ultra project and top level University wide communications.
 
