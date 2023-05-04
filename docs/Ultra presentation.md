@@ -2,10 +2,17 @@
 
 ## Introduction (page 1)
 
-Thank you for inviting me to this event where I will be talking about the Ultra project and give you a quick overview of the new Ultra Courses View. I will also be showing you some of the new features and enhancements that are available in Ultra courses.git
+Thank you for inviting me to this event where I will be talking briefly about the Ultra project and give you a quick overview of the new Ultra Courses interface. I will also be showing you some of the new features and enhancements that are available in Ultra courses.
 
 
 ## Ultra Project Overview (page 2)
+
+- major upgrade to Learning Central
+- new, modern and intuitive user interface
+- responsive user experience across different devices
+- two phases
+  - Phase 1: Ultra Base Navigation
+  - Phase 2: Ultra Courses View
 
 I would like to start off by giving you a brief overview of the Ultra project. The Ultra project is a major upgrade to Learning Central that will provide a new, modern and intuitive user interface for staff and students. It will also provide a more responsive user experience across different devices. The project is being delivered in two phases. Phase 1 is the upgrade to Ultra Base Navigation and Phase 2 is the upgrade to Ultra Cources View.
 
@@ -196,9 +203,21 @@ Files such as word, pdf, powerpoint, excel, images, audio and video files can be
 
 ### 5. Use Ultra Documents to build complex content (page 16)
 
+- new way to build complex content
+- Rich content
+- Html content
+- Marketplace content
+- Reuse across multiple courses
+
 Ultra documents are a new way to build complex content. They are a collection of text, images, videos, files, html content or content from the Marketplace that can be added to a course. They can be used to create a course outline, a course syllabus, a course introduction, a course overview, and can be reused across multiple courses.
 
 ### 6. Create meaningful content headings and descriptions (page 17)
+
+- meaningful headings and descriptions
+- search for content by title
+- accessibility
+
+When creating content, it is important to create meaningful headings and descriptions.
 
 This is particularly important as Ultra now introduces a new feature that allows you to search for content by title.
 
@@ -206,6 +225,11 @@ It is also important for accessibility. Headings and descriptions help students 
 
 
 ### 7. Allow your students to track their progress (page 18)
+
+- progress tracking
+- see how your students are progressing through the course
+- students can control their own progress
+- staff can also see the progress of their students
  
 The new progress tracking feature allows you to track the progress of your students. This is particularly useful if you want to see how your students are progressing through the course and if they are completing the required activities. The feature is enabled by default and can be accessed via the Progress Tracking option under Details and Action.
 
@@ -215,11 +239,14 @@ Staff on the other hand can also see the progress of their students. clicking on
 
 ### 8. Personalise your modules (page 19)
 
+- add a banner image
+- add a personal profile picture
+
 Ultra courses allow you to personalise your modules by adding a banner image and changing the title of the module. Having a course image not only make the module more visually appealing but also helps establish a strong course identity for your students.
 
 All teaching staff added as instructors to the course will be listed in Course Staff with an avatar image. You can click your name in the left-hand menu of the homepage to access your profile page where you can add a profile picture and update your profile information.
 
-### 9. Tidy up by deleting or hiding content (page 20)
+### 9. Use Batch Edit to tidy up content (page 20)
 
 Instead of deleting content, we recommend hiding it from students.
 
@@ -264,7 +291,7 @@ You should only delete content if it is something you no longer want to retain. 
 - [Blackboard Ultra Courses basics for professional services staff](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vAxU0RQ4IdhMt5n14DushwdUQkhJWlk0RlZNQzhEOFBPVkUxUERDNlZGNC4u)
 - [Blackboard Ultra Tests training for all staff who use tests](https://forms.office.com/r/F2SFcX2mq3)
 
-## Ulra in Ultra online course
+### Ulra in Ultra online course
 
 [enrolment form](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vL7liF4SYuFKusJXCxhIjiZURU5QUzk5SUE2RDVMMFdUUE5TQjYyTDEyRi4u)
 
