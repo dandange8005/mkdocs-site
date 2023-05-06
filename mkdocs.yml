@@ -39,16 +39,7 @@ theme:
 
   font:
     text: Inter
-
-# Cookies
-extra:
-  consent:
-    title: Cookie consent
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+    # code: Roboto Mono
 
 # Extensions
 markdown_extensions:
@@ -75,10 +66,26 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
+# Plugins
 plugins:
   - search
   - roamlinks
   - git-revision-date-localized
 
+# Extra CSS
 extra_css:
   - stylesheets/extra.css
+
+# Cookies
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  alternate:
+    - name: Welsh
+      link: /cy/
+      lang: cy

@@ -93,3 +93,14 @@ There are a few options you can choose to edit the documents remotely
 - Github desktop
 
 - open up the repo with either obsidian, Marktext or VS code
+
+
+## Material for MKDocs
+
+### plugins used
+
+- search
+- roamlinks
+- git revision date
+- [mkdocs-i18n](https://gitlab.com/mkdocs-i18n/mkdocs-i18n)
+- [mkdocs i18n](https://github.com/ultrabug/mkdocs-static-i18n)] 
