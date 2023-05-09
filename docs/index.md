@@ -23,8 +23,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         stylesheets/ # Extra styles that can be added to the project
 
 Just adding something new to the page to test the workflow
-
-## link test
-
-- [[tabs]]
-- [[code test]]

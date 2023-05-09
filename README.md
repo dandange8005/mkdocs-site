@@ -97,10 +97,12 @@ There are a few options you can choose to edit the documents remotely
 
 ## Material for MKDocs
 
-### plugins used
+### plugins used in the project
 
 - search
-- roamlinks
-- git revision date
+- [roamlinks](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin)
+- [mkdocs-git-revision-date-localized-plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin)
 - [mkdocs-i18n](https://gitlab.com/mkdocs-i18n/mkdocs-i18n)
 - [mkdocs i18n](https://github.com/ultrabug/mkdocs-static-i18n)] 
+
+[Best of mkdocs](https://github.com/mkdocs/best-of-mkdocs)
