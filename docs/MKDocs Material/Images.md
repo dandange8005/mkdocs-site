@@ -34,9 +34,11 @@ I would recommend hosting the images on Github or Imgur.
     - Markdown Image Extended
 
 === "Windows"
-    - use ShareX to take screenshots and upload to Imgur
-      - configure ShareX to upload to Imgur
+    #### Using ShareX
+    - configure ShareX to upload to Imgur
     - take a screenshot
+    - edit the image if necessary
+    - click on the 'Upload' button
     - ShareX will upload the image to Imgur and copy the image address to the clipboard
     - Paste the image address in the markdown file
 
@@ -46,3 +48,7 @@ I would recommend hosting the images on Github or Imgur.
 
     - ![2023-05-15_22-10-53.png](https://i.imgur.com/mp4S3jD.png)
     - ![2023-05-15_22-24-48.png](https://i.imgur.com/5r8tFZi.png)
+
+![picture 1](../../images/b5d584744239ef32df575e82b240481312f10fa9c51e03b60221da8d1171be62.png)  
+
+
