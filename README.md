@@ -31,6 +31,23 @@ The tutorial I followed is this [How To Create STUNNING Code Documentation With 
 
 Here are the steps to setup the project
 
+1. create you own repo on Github
+2. clone the repo to your local machine
+3. install python
+4. create a virtual environment
+   
+    ```bash
+    python -m venv venv
+    ```
+
+5. active the virtual environment
+
+    ```bash
+    source venv/bin/activate
+    ```
+
+6. install mkdocs-material
+
 ```bash
 python -m ven venv
 source venv/bin/activate
@@ -81,5 +98,5 @@ There are a few options you can choose to edit the documents remotely
 - [roamlinks](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin)
 - [mkdocs-git-revision-date-localized-plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin)
 - [mkdocs-i18n](https://gitlab.com/mkdocs-i18n/mkdocs-i18n)
-- [mkdocs i18n](https://github.com/ultrabug/mkdocs-static-i18n)] 
+- [mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)
 - [Best of mkdocs](https://github.com/mkdocs/best-of-mkdocs)
