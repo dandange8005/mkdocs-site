@@ -14,7 +14,7 @@ Idealy, we'd like to create a documentation/knowledge base site that is easy to 
 Below are some of the benefits of creating a project like this:
 
 - Write the documentation in simply [Markdown](https://www.markdownguide.org/basic-syntax/) syntax (let you focus on writing the content not the style)
-- Create a beatiful documentation site built with [MKDocs](mkdocs.org) and [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/)
+- Create a beatiful documentation site built with [MKDocs](https://www.mkdocs.org/) and [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/)
 - running a local server to test, preview the docs
 - Github integration
   - version control
