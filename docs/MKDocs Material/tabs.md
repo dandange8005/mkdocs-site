@@ -1,18 +1,33 @@
-## Tab Test
+---
+tags: MKDocs, tabs
+---
 
-This is a page to test the Tab function to see 
+This is a quick guide on how to create tabs in your document
+
+## Content Tabs in action
+
+```md
+=== "Unordered list"
+	* Sed sagittis eleifend rutrum
+    * Donec vitae suscipit est
+    * Nulla tempor lobortis orci
+
+=== "Ordered list"
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
+```
+
+### Example
+
+=== "Unordered list"
+	* Sed sagittis eleifend rutrum
+    * Donec vitae suscipit est
+    * Nulla tempor lobortis orci
+
+=== "Ordered list"
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
 
 
-=== "Tab 1"
-    Markdown **content**.
-
-    Multiple paragraphs.
-
-=== "Tab 2"
-    More Markdown **content**.
-
-    - list item a
-    - list item b
-
-[Subscribe to our newsletter](#){.md-button .md-button--primary}
-[Send :fontawesome-solid-paper-plane:](#){ .md-button }

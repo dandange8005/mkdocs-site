@@ -1,41 +1,28 @@
-# Introduction
-
 This is my experimental github repository that uses Github and mkdocs + Material theme to publish my notes. 
 
 The notes are published at https://dandange8005.github.io/mkdocs-test/ using Github pages.
 
 The tutorial I followed is this [How To Create STUNNING Code Documentation With MkDocs Material Theme](https://www.youtube.com/watch?v=Q-YA_dA8C20&list=WL&index=17&ab_channel=JamesWillett). 
 
-## Why create a project like this?
+## Project layout
 
-In our DigEd team, we are often required to create documentations or guides for different purposes. In a recent project, we were tasked to create an online resource to help staff to move over to Blackboard Ultra courses. We ended up created the resource in Xerte which is a resource development tool for educators.
+    .github/workflows/ # Github actions
+      ci.yml
+    mkdocs.yml    # The configuration file.
+    docs/
+      assets/ # Images and other files that are used in the docs
+      index.md  # The documentation homepage.
+      Getting Started/  # document folders, can be used for navigation
+          doc 1.md
+          doc 2.md
+          doc 3.md
+          doc 4.md
+      stylesheets/ # Extra styles that can be added to the project
 
-It was okay to use Xerte but there are some limitations:
-
-- Xerte is not easy to collaborate with other team members
-- There is no version control
-- The search function is not great
-
-We wanted to create a documentation site that is easy to maintain, easy to update, easy to collaborate, and easy to publish.
-
-Below are some of the benefits of creating a project like this:
-
-- Write the documentation in simply [Markdown](https://www.markdownguide.org/basic-syntax/) syntax (let you focus on writing the content not the style)
-- Create a beatiful documentation site built with [MKDocs](mkdocs.org) and [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/)
-- running a local server to test, preview the docs
-- Github integration
-  - version control
-  - collaboration
-  - track issues
-  - [Github Codespace](https://github.com/features/codespaces)
-  - doc deployed to Github pages and rendered with mkdocs + material for mkdocs theme
-  - changes made locally or remotely all get published to the Github pages
-- lots of great features from Material for MKDocs
 
 ## prerequisites for the project
 
 - python
-- Github CLI
 - VS code
 - Github Desktop (optional)
 - some knowledge of Markdown syntax
