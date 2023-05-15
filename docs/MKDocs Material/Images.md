@@ -21,11 +21,17 @@ I would recommend hosting the images on Github or Imgur.
     - Paste the image address in the markdown file
     - Add `?raw=true` to the end of the image address
     - The image address should look like this
-    - 
+  
         ```md
-        https://i.imgur.com/0Z1X2Y3.png?raw=true
+        ![2023-05-15_22-10-53.png](https://i.imgur.com/mp4S3jD.png)
         ```
+
     - The image should be displayed in the preview window
+    
+    Use plugsins
+
+    - Markdown Image
+    - Markdown Image Extended
 
 === "Windows"
     - use ShareX to take screenshots and upload to Imgur
@@ -34,7 +40,9 @@ I would recommend hosting the images on Github or Imgur.
     - ShareX will upload the image to Imgur and copy the image address to the clipboard
     - Paste the image address in the markdown file
 
+### Example
 !!! example
-    This is an example of an image hosted on Imgur
+    Here are some example images hosted on Imgur
+
     - ![2023-05-15_22-10-53.png](https://i.imgur.com/mp4S3jD.png)
     - ![2023-05-15_22-24-48.png](https://i.imgur.com/5r8tFZi.png)
