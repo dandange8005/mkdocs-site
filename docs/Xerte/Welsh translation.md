@@ -68,7 +68,8 @@ This guide will show you how to add a language translation toggle to your Xerte 
 
 8. Click **Play** to preview the changes. You should be able to see the language toggle on the top right corner of the page.
 
-    ![screenshot](../../assets/2023-05-01-22-32-57.png)
+    ![screenshot](../assets/2023-05-01-22-32-57.png)
+
 
 ## For Project in Welsh
 
