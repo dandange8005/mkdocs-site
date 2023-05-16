@@ -1,4 +1,6 @@
-# Improve the Mac Terminal
+---
+title: Improve the Mac Terminal
+---
 
 [How To Make Your Boring Mac Terminal So Much Better](https://www.youtube.com/@joseanmartinez)
 
