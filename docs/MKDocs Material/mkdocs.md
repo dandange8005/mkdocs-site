@@ -21,4 +21,8 @@ pip install mkdocs-material
 # stop the local server
 ctrl + c
 
+# check the version
+mkdocs --version
+
+
 ```

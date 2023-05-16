@@ -31,10 +31,31 @@ The tutorial I followed is this [How To Create STUNNING Code Documentation With 
 
 Here are the steps to setup the project
 
-1. create you own repo on Github
-2. clone the repo to your local machine
+1. Create you own repo on Github
+
+    You can fork this repo or create your own repo on Github
+
+2. Clone the repo to your local machine
+
+    You can use Github desktop to clone the repo to your local machine
+
+    Or you can use the command line to clone the repo
+
+    ```bash
+    git clone ...
+    ```
+
 3. install python
+
+    You will need to install python to run the mkdocs server locally
+
+    ```bash
+    brew install python
+    ```
+
 4. create a virtual environment
+
+    This step would allow you to install the python libraries locally without affecting the global python installation
    
     ```bash
     python -m venv venv
@@ -42,16 +63,27 @@ Here are the steps to setup the project
 
 5. active the virtual environment
 
+    You will need to activate the virtual environment before installing the python libraries.
+
     ```bash
     source venv/bin/activate
     ```
 
 6. install mkdocs-material
 
-```bash
-python -m ven venv
-source venv/bin/activate
-```
+    Install the mkdocs-material library
+
+    ```bash
+    pip install mkdocs-material
+    ```
+7. install the plugins
+
+    ```bash
+    pip install mkdocs-git-revision-date-localized-plugin
+    ...
+    ```
+
+
 
 
 ## Editing the Docs
