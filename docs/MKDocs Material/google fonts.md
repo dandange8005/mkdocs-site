@@ -1,5 +1,3 @@
-# Google Fonts
-
 This page includes my favorait Google Fonts
 
 ## Sans Serif

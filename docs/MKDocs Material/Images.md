@@ -1,4 +1,4 @@
-# Working with images in Markdown
+## Working with images in Markdown
 
 ## Adding images
 
