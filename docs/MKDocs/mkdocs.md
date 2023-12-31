@@ -123,3 +123,14 @@ There are many ways to install MKDocs. I followed this [tutorial](https://www.yo
           doc 3.md
           doc 4.md
       stylesheets/ # Extra styles that can be added to the project
+
+### Basic mkdocs commands
+
+Below are some of the basic mkdocs commands:
+
+- to build the site, run `mkdocs build`
+- to run the mkdocs server, run `mkdocs serve`
+- to stop the mkdocs server, press `Ctrl + C`
+- to read the mkdocs documentation, run `mkdocs --help`
+- to restart the mkdocs server, run `mkdocs serve --reload`
+
