@@ -1,18 +1,18 @@
-This is my experimental github repository that uses Github and mkdocs + Material theme to publish my notes. 
+# About this repo
+
+This is my experimental github repository that uses Github and mkdocs + Material theme to publish my notes.
 
 The notes are published at https://dandange8005.github.io/mkdocs-test/ using Github pages.
 
-
-
-
+The detail setup steps are documented in the [index](docs/index.md) file in the docs folder.
 
 ## Editing the Docs
 
 ### Editors
 
-You can choose whatever editor you want to make changes to the .md files as they use Markdown syntax.
+The documents are written in Markdown syntax. Feel free to use any text editor you want to edit the documents.
 
-However, these are some of the editors I would consider using
+Personally I use the following editors to edit the documents
 
 - VS code (with markdown preview)
 - Obsidian
@@ -23,8 +23,8 @@ The original machine will include the python library which will not be synched t
 
 #### Steps to make changes
 
-run vs code
-editing in vs code
+run vscode
+editing in vscode
 commit the changes
 
 ### Editing remotely
