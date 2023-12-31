@@ -148,6 +148,10 @@ Here are the steps to setup the project
 
     You will need to activate the virtual environment before installing the python libraries.
 
+    - Go to the project folder
+    - Open the terminal
+    - Activate the virtual environment
+
     For Mac
     ```bash
     source venv/bin/activate
@@ -170,4 +174,9 @@ Here are the steps to setup the project
     ```bash
     pip install mkdocs-git-revision-date-localized-plugin
     ...
+    ```
+8. run the mkdocs server
+
+    ```bash
+    mkdocs serve
     ```
