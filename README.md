@@ -41,4 +41,9 @@ There are a few options you can choose to edit the documents remotely
 
 - open up the repo with either obsidian, Marktext or VS code
 
+### Additional tools
+
+- [Publisher for MkDocs](https://mkusz.github.io/mkdocs-publisher/setup/general/pub-meta/)
+
+
 
