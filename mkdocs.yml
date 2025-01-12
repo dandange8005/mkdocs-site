@@ -1,7 +1,7 @@
 # site informaiotn
 site_name: Nan Example MKDoc Site
-repo_url: https://github.com/dandange8005/mkdocs-test
-repo_name: dandange8005/mkdocs-test
+repo_url: https://github.com/dandange8005/mkdocs-site
+repo_name: dandange8005/mkdocs-site
 edit_uri: edit/main/docs/
 
 # theme settings
@@ -50,8 +50,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
