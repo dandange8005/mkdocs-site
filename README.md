@@ -1,8 +1,8 @@
 # About this repo
 
-This is my experimental github repository that uses Github and mkdocs + Material theme to publish my notes.
+This is a demo github repository that contains a mkdocs + Material theme documentation site and deployed via Github.
 
-The notes are published at https://dandange8005.github.io/mkdocs-test/ using Github pages.
+The notes are published at https://dandange8005.github.io/mkdocs-site/ using Github pages.
 
 The detail setup steps are documented in the [index](docs/index.md) file in the docs folder.
 
