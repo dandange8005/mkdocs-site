@@ -1,0 +1,46 @@
+/* This is where the custom styles goes */
+
+:root {
+
+  --cu-red: #E4251B;
+  --cu-black: #121212;
+  --link: #045bc6;
+
+  /* Primary color shades */
+
+
+  --md-primary-fg-color: #d4374a;
+  --md-primary-fg-color--light: #e4838e;
+  --md-primary-fg-color--dark:  #991a29;
+
+}
+
+/* Title colours */
+
+.md-typeset h1 {
+  color: var(--cu-red);
+}
+
+.md-typeset h2, 
+.md-typeset h3 {
+  font-weight: 600;
+}
+
+.twitter {
+    color: #1DA1F2;
+}
+
+/* adding animation to heart icon */
+
+@keyframes heart {
+    0%, 40%, 80%, 100% {
+      transform: scale(1);
+    }
+    20%, 60% {
+      transform: scale(1.15);
+    }
+  }
+  .heart {
+    animation: heart 1000ms infinite;
+    color: red;
+  }
