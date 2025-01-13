@@ -1,41 +1,54 @@
 # site informaiotn
-site_name: Nan Example MKDoc Site
+site_name: Example MKDoc Site
 repo_url: https://github.com/dandange8005/mkdocs-site
 repo_name: dandange8005/mkdocs-site
 edit_uri: edit/main/docs/
+
+# nav settings
+
+# nav:
+#   - Home: index.md
+#   - Learning Central:
+#     - Getting Started:
+
 
 # theme settings
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.follow
+    - navigation.tracking # URL updates as you scroll
+    - navigation.tabs  # Top-level sections as tabs
+    # - navigation.tabs.sticky # Sticky top-level sections
+    - navigation.sections # Groups sections
+    - navigation.indexes # Landing pages for sections. 
+    - navigation.top # Top navigation
+    - navigation.footer # Footer navigation
+    - toc.follow # Table of contents follows as you scroll
     # - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
     # - content.tabs.link
-    - contend.code.annotate
-    - content.code.copy
-    - navigation.footer
-    - content.action.edit
-    - content.action.view
+    - contend.code.annotate # Annotate code blocks
+    - content.code.copy # Copy code blocks
+    - content.action.edit # Edit page on GitHub
+    # - content.action.view # View page source
+    - search.highlight # Highlight search terms
+    - search.suggest # Suggest search terms
     
   palette:
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-      primary: custom
-      accent: indigo
-
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
       primary: custom
       accent: indigo  
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: custom
+      accent: indigo
 
   font:
     text: Inter
@@ -43,12 +56,12 @@ theme:
 
 # Extensions
 markdown_extensions:
+  - admonition # Information, warning, error, and tip boxes
+  - attr_list # Attribute lists
   - footnotes
   - pymdownx.magiclink
-  - admonition
   - pymdownx.details
-  - attr_list
-  - md_in_html
+  - md_in_html # Markdown in HTML
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -73,7 +86,7 @@ plugins:
   - roamlinks
   - git-revision-date-localized
 
-# Extra CSS
+# Additional CSS
 extra_css:
   - stylesheets/extra.css
 

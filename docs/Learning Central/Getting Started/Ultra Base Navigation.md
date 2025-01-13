@@ -1,3 +1,8 @@
+---
+title: Ultra Base Navigation
+order: 1
+---
+
 ULTRA navigation is designed to be intuitive - it is almost impossible to get lost in ULTRA courses!
 
 As soon as you log in, you have access to all the core features from the main menu where your name appears. You can easily return to this menu from wherever you are—even if you're in a course. The menu peeks from behind the other layers you have open.
